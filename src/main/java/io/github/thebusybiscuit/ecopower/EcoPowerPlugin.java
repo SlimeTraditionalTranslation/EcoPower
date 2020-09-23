@@ -36,8 +36,8 @@ public class EcoPowerPlugin extends JavaPlugin implements SlimefunAddon {
     public void onEnable() {
         Config cfg = new Config(this);
 
-        if (cfg.getBoolean("options.auto-update") && getDescription().getVersion().startsWith("DEV - ")) {
-            Updater updater = new GitHubBuildsUpdater(this, getFile(), "TheBusyBiscuit/EcoPower/master");
+        if (cfg.getBoolean("options.auto-update") && getDescription().getVersion().startsWith("EFI - ")) {
+            Updater updater = new GitHubBuildsUpdater(this, getFile(), "xMikux/EcoPower/master");
             updater.start();
         }
 

@@ -78,7 +78,7 @@
             <scope>provided</scope>
             <exclusions>
                 <exclusion>
-                    <groupId>io.github.thebusybiscuit</groupId>
+                    <groupId>io.github.xmikux</groupId>
                     <artifactId>cscorelib2</artifactId>
                 </exclusion>
                 <exclusion>
