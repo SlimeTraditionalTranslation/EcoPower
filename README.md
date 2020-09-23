@@ -13,11 +13,11 @@
 * 閃電接收器 (將閃電轉換成可使用的電-> [影片](https://youtu.be/mAntFr0c1gg))
 
 ## 下載綠能發電
-下載繁體翻譯版: [點此](https://github.com/xMikux/EcoPower/releases)<br>
-你也可以在這裡下載官方的開發版: [開發版構建](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/EcoPower/master/)
+繁體翻譯版: [構建頁面](https://xmikux.github.io/builds/xMikux/EcoPower/master)<br>
+官方開發版: [開發版構建頁面](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/EcoPower/master/)
 <p align="center">
-  <a href="https://thebusybiscuit.github.io/builds/TheBusyBiscuit/EcoPower/master/">
-    <img src="https://thebusybiscuit.github.io/builds/TheBusyBiscuit/EcoPower/master/badge.svg" alt="Build Server"/>
+  <a href="https://xmikux.github.io/builds/xMikux/EcoPower/master/">
+    <img src="https://xmikux.github.io/builds/xMikux/EcoPower/master/badge.svg" alt="構建伺服器"/>
   </a>
 </p>
 

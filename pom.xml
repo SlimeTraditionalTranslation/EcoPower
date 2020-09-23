@@ -124,7 +124,7 @@
             <scope>provided</scope>
             <exclusions>
                 <exclusion>
-                    <groupId>io.github.xmikux</groupId>
+                    <groupId>io.github.TheBusyBiscuit</groupId>
                     <artifactId>cscorelib2</artifactId>
                 </exclusion>
             </exclusions>
