@@ -1,6 +1,6 @@
 package io.github.thebusybiscuit.ecopower;
 
-import org.bstats.bukkit.Metrics;
+//import org.bstats.bukkit.Metrics;
 import org.bukkit.Material;
 import org.bukkit.NamespacedKey;
 import org.bukkit.inventory.ItemStack;
@@ -32,7 +32,7 @@ public class EcoPowerPlugin extends JavaPlugin implements SlimefunAddon {
     @Override
     public void onEnable() {
 
-        new Metrics(this, 8154);
+        //new Metrics(this, 8154);
 
         ItemStack categoryItem = new CustomItem(SlimefunUtils.getCustomHead("240775c3ad75763613f32f04986881bbe4eee4366d0c57f17f7c7514e2d0a77d"), "&2綠能發電");
         Category category = new Category(new NamespacedKey(this, "generators"), categoryItem, 4);
